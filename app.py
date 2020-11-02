@@ -8,6 +8,3 @@ CORS(app)
 @app.route('/api/v1/calendars')
 def index():
     return jsonify(calendar_list)
-
-if __name__ == '__main__':
-    app.run()
