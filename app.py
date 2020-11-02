@@ -1,11 +1,10 @@
 from flask import Flask, jsonify
-from data.calendars import calendars
+from flask_cors import CORS
+from data.calendar_list import calendar_list
 
 app = Flask(__name__)
+CORS(app)
 
-@app.route('/calendars')
+@app.route('/api/v1/calendars')
 def index():
-    return jsonify(calendars)
-
-if __name__ == '__main__':
-    app.run()
+    return jsonify(calendar_list)
