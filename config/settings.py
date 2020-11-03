@@ -1,0 +1,3 @@
+import os
+
+MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
