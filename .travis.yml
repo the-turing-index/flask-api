@@ -4,8 +4,9 @@ python:
 cache: pip
 install:
   - pip install -r requirements.txt
-script:
+before_script:
   - python -m db.seed_db
+script:
   - python -m pytest tests
 env:
   global:
