@@ -7,7 +7,7 @@ from data.combined import combined
 from data.community import community
 
 settings = {
-    'host': 'localhost:27017',
+    'host': '127.0.0.1:27017',
     'database': 'flask_api_development',
 }
 
