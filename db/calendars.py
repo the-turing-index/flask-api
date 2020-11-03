@@ -2,7 +2,7 @@ from pymongo import MongoClient
 from config.settings import MONGODB_CONNECTION
 
 client = MongoClient(MONGODB_CONNECTION)
-db = client.flask_api_production
+db = client.flask_api_development
 
 community_events = db.community.find( {} )
 mod1_events = db.mod1.find( {} )
