@@ -1,8 +1,10 @@
 from pymongo import MongoClient
-from config.settings import MONGODB_CONNECTION
+from config.settings import MONGODB_CONNECTION, ENVIRONMENT
 
 client = MongoClient(MONGODB_CONNECTION)
-db = client.flask_api_development
+
+if ENVIRONMENT == 'production': db = client.flask_api_production
+if ENVIRONMENT == 'development': db = client.flask_api_development
 
 community_events = db.community.find( {} )
 mod1_events = db.mod1.find( {} )
