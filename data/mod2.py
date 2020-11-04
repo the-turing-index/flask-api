@@ -8,14 +8,14 @@ fe2 = [
     {
       "htmlLink": "https://www.google.com/calendar/event?eid=Nmd1OG1qamM5czliYWdiMTF2aHBjaTE0MWZfMjAyMDA5MThUMjAxNTAwWiBjYXNpbWlyY3JlYXRpdmUuY29tX2NqaWZmb3F2dGFqcTQzbjVtbjI5MGNwNzQ0QGc",
       "summary": "Code Fair",
-      "location": "Zoom links shared in #announcements",
+      "location": None,
       "start": "2020-09-18T14:15:00-06:00",
       "end": "2020-09-18T15:30:00-06:00"
     },
     {
       "htmlLink": "https://www.google.com/calendar/event?eid=Y2NwMzZlYjY2a3NqNGI5bWNjb21jYjlrNjhwamNiYjJjOHBtY2I5bWM1aGpjb2I1NzBwNjRkMWk3MF8yMDIwMDczMVQxOTAwMDBaIGNhc2ltaXJjcmVhdGl2ZS5jb21fY2ppZmZvcXZ0YWpxNDNuNW1uMjkwY3A3NDRAZw",
       "summary": "Community Gear Up: Mod 4 Leads",
-      "location": "Session Assignments and room locations are listed in the description",
+      "location": None,
       "start": "2020-07-31T13:00:00-06:00",
       "end": "2020-07-31T14:15:00-06:00"
     },
@@ -47,7 +47,7 @@ fe2 = [
     {
       "htmlLink": "https://www.google.com/calendar/event?eid=Y2NwMzZlYjY2a3NqNGI5bWNjb21jYjlrNjhwamNiYjJjOHBtY2I5bWM1aGpjb2I1NzBwNjRkMWk3MF8yMDIwMTEwNlQyMDAwMDBaIGNhc2ltaXJjcmVhdGl2ZS5jb21fY2ppZmZvcXZ0YWpxNDNuNW1uMjkwY3A3NDRAZw",
       "summary": "Community Gear Up: Mod 4 Leads",
-      "location": "Session Assignments and room locations are listed in the description",
+      "location": None,
       "start": "2020-11-06T13:00:00-07:00",
       "end": "2020-11-06T14:15:00-07:00"
     }
@@ -57,14 +57,14 @@ be2 = [
       {
         "htmlLink": "https://www.google.com/calendar/event?eid=Nmd1OG1qamM5czliYWdiMTF2aHBjaTE0MWZfMjAyMDA5MThUMjAxNTAwWiBjYXNpbWlyY3JlYXRpdmUuY29tX3JwczJoZzFuZnFqaWg0cmNsM2dsNnM0bHBrQGc",
         "summary": "Code Fair",
-        "location": "Zoom links shared in #announcements",
+        "location": None,
         "start": "2020-09-18T14:15:00-06:00",
         "end": "2020-09-18T15:30:00-06:00"
       },
       {
         "htmlLink": "https://www.google.com/calendar/event?eid=Y2NwMzZlYjY2a3NqNGI5bWNjb21jYjlrNjhwamNiYjJjOHBtY2I5bWM1aGpjb2I1NzBwNjRkMWk3MF8yMDIwMDczMVQxOTAwMDBaIGNhc2ltaXJjcmVhdGl2ZS5jb21fcnBzMmhnMW5mcWppaDRyY2wzZ2w2czRscGtAZw",
         "summary": "Community Gear Up: Mod 4 Leads",
-        "location": "Session Assignments and room locations are listed in the description",
+        "location": None,
         "start": "2020-07-31T13:00:00-06:00",
         "end": "2020-07-31T14:15:00-06:00"
       },
@@ -103,7 +103,7 @@ be2 = [
       {
         "htmlLink": "https://www.google.com/calendar/event?eid=Y2NwMzZlYjY2a3NqNGI5bWNjb21jYjlrNjhwamNiYjJjOHBtY2I5bWM1aGpjb2I1NzBwNjRkMWk3MF8yMDIwMTEwNlQyMDAwMDBaIGNhc2ltaXJjcmVhdGl2ZS5jb21fcnBzMmhnMW5mcWppaDRyY2wzZ2w2czRscGtAZw",
         "summary": "Community Gear Up: Mod 4 Leads",
-        "location": "Session Assignments and room locations are listed in the description",
+        "location": None,
         "start": "2020-11-06T13:00:00-07:00",
         "end": "2020-11-06T14:15:00-07:00"
       },

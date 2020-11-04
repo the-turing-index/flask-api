@@ -30,3 +30,30 @@ all_events = {
     **mod3,
     **mod4
 }
+
+# demo data
+
+demo_community_events = db.demoCommunity.find( {} )
+demo_mod1_events = db.demoMod1.find( {} )
+demo_mod2_events = db.demoMod2.find( {} )
+demo_mod3_events = db.demoMod3.find( {} )
+demo_mod4_events = db.demoMod4.find( {} )
+
+demo_community = list(demo_community_events)[0]
+del demo_community['_id']
+demo_mod1 = list(demo_mod1_events)[0]
+del demo_mod1['_id']
+demo_mod2 = list(demo_mod2_events)[0]
+del demo_mod2['_id']
+demo_mod3 = list(demo_mod3_events)[0]
+del demo_mod3['_id']
+demo_mod4 = list(demo_mod4_events)[0]
+del demo_mod4['_id']
+
+demo_all_events = {
+    **demo_community,
+    **demo_mod1,
+    **demo_mod2,
+    **demo_mod3,
+    **demo_mod4
+}

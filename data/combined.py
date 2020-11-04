@@ -2,14 +2,14 @@ combined = [
     {
       "htmlLink": "https://www.google.com/calendar/event?eid=M2x2NWxtZ2I5MmFoOXQ4c2IyOXA1MzJuZnBfMjAyMDA3MzFUMTkwMDAwWiBjYXNpbWlyY3JlYXRpdmUuY29tX2MxczN2c3BnNXYwOXZoNWNubmg4OGRuMm5jQGc",
       "summary": "Community Gear Up: Mod 4 Leads",
-      "location": "Session Assignments and room locations are listed in the description",
+      "location": None,
       "start": "2020-07-31T13:00:00-06:00",
       "end": "2020-07-31T14:15:00-06:00"
     },
     {
       "htmlLink": "https://www.google.com/calendar/event?eid=NWlsNzF2cGFvZXFvYm9hbGFjNGQ4ZmdrZmZfMjAyMDA5MThUMjAxNTAwWiBjYXNpbWlyY3JlYXRpdmUuY29tX2MxczN2c3BnNXYwOXZoNWNubmg4OGRuMm5jQGc",
       "summary": "Code Fair",
-      "location": "Zoom links shared in #announcements",
+      "location": None,
       "start": "2020-09-18T14:15:00-06:00",
       "end": "2020-09-18T15:30:00-06:00"
     },
