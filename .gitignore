@@ -5,3 +5,6 @@ pytest_cache
 /htmlcov
 /db/credentials.txt
 /config/.env
+/config/client_secret.json
+/sso
+/templates
