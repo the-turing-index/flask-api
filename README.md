@@ -52,64 +52,14 @@ When you are done
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Request:
+### GET '/calendars'
 
-```
-GET '/calendars' [Live demo](https://fast-depths-29900.herokuapp.com/calendars)
-```
+#### [Click to see it live](https://fast-depths-29900.herokuapp.com/api/v1/calendars)
 
-Response:
 
-```
-{
-  "data": {
-    "id": null,
-    "type": "calendars",
-    "attributes": [
-      {
-        "mod1": {
-          "frontend": {
-            "zoom_link": ""
-          },
-          "backend": {
-            "zoom_link": ""
-          }
-        }
-      },
-      {
-        "mod2": {
-          "frontend": {
-            "zoom_link": ""
-          },
-          "backend": {
-            "zoom_link": ""
-          }
-        }
-      },
-      {
-        "mod3": {
-          "frontend": {
-            "zoom_link": ""
-          },
-          "backend": {
-            "zoom_link": ""
-          }
-        }
-      },
-      {
-        "mod4": {
-          "zoom_link": ""
-        }
-      },
-      {
-        "community": {
-          "zoom_link": ""
-        }
-      }
-    ]
-  }
-}
-```
+### GET '/demo'
+
+#### [Click to see it live](https://fast-depths-29900.herokuapp.com/api/v1/demo)
 
 <!-- ROADMAP -->
 ## Roadmap
