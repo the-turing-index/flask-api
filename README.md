@@ -49,12 +49,12 @@ When you are done
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### GET '/calendars'
+### GET 'api/v1/calendars'
 
 #### [Click to see it live](https://fast-depths-29900.herokuapp.com/api/v1/calendars)
 
 
-### GET '/demo'
+### GET 'api/v1/demo'
 
 #### [Click to see it live](https://fast-depths-29900.herokuapp.com/api/v1/demo)
 
