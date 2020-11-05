@@ -37,7 +37,7 @@ You can consume the set the API up locally for your development environment by f
 ### Installation
 
 - Clone down this repo and `cd` into it
-- Activate a virtual environment `python -m venv ./venv`
+- Activate a virtual environment `python -m venv ./venv && source bench/bin/activate`
 - Install the dependencies `pip install -r requirements.txt`
 - Start the server: `gunicorn app:app`
 - The API will run at `localhost:8000`
